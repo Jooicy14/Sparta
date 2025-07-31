@@ -1,1 +1,2 @@
 print('Sparta')
+print('good')
